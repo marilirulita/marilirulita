@@ -1,6 +1,7 @@
 # Hi there 👋
 
-## *Mar Bautista´s Profile.* 
+![Butterfly](butterfly.png)
+## *Mar Bautista´s Profile.*
 >This is my first experience learning programming, and I have many ideas that I want to make a reality, but for now, I am trying to focus on learning.
 ### 🌱 I’m currently learning web development languages such like:
 - HTML & CSS
