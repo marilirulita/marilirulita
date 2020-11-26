@@ -6,11 +6,11 @@
 
 >**This is my first experience learning programming, and I have many ideas that I want to make a reality, but for now, I am trying to focus on learning.**
 ### 🌱 I’m currently learning web development languages such like:
-- [ ] HTML & CSS
+- [x] HTML & CSS
 - [ ] Java Script
 - [ ] Ruby, Ruby & Rails
 - [ ] React
-##### *And also I am interested in data science and machine learning*
+#### *And also I am interested in data science and machine learning*
 
 ### 👯 I’m looking to collaborate:
 - **Web development projects.**
