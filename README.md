@@ -23,4 +23,4 @@
 - LinkedIn: [@marilirulita](https://www.linkedin.com/in/mar-y-sol-bautista-5a6894151/)
 - Twitter: [@marilirulita](https://twitter.com/marylirulita)
 ### ⚡ Fun fact:  
-- **I am a fanatic of anime, and when I am codding I like to listen to music with anime thematic or fantastic, at this moment I am listening to a mixture of Celtic magical forest music 😄.**
+- **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
