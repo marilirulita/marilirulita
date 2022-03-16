@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![lines gif](Mar Bautista.gif)
+![Mar Bautista gif](marBautista.gif)
 
 ## *Mar Bautista´s Profile.*
 
