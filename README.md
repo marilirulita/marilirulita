@@ -42,14 +42,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://myportafolio.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://myportafolio.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/marylirulita#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/marylirulita#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marbautista/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marbautista/#gh-dark-mode-only)
 
 
 [website]: https://myportafolio.com
