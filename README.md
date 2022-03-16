@@ -19,22 +19,15 @@
 
 <br />
 
+#### *And also I am interested in data science and machine learning*
+
 ### My GitHub Stats:
 
 [![Mar Bautista's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilirulita&show_icons=true&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
-#### *And also I am interested in data science and machine learning*
-
-### 👯 I’m looking to collaborate:
-  
-- **Web development projects.**
-- **Projects of data science for Bussines or economic topics.**
-
-### 🤔 I’m looking for help with my first personal project, an online store. I just created the repository and a basic structure.
-
 ### 📫 You can reach me at:
-[![website](./img/github-dark.svg)](https://github.com/marilirulita#gh-light-mode-only)
-[![website](./img/github-light.svg)](https://github.com/marilirulita#gh-dark-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/marilirulita#gh-dark-mode-only)
+[![website](./img/github-light.svg)](https://github.com/marilirulita#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/marylirulita#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/marylirulita#gh-dark-mode-only)
@@ -45,10 +38,18 @@
 [![website](./img/globe-light.svg)](https://myportafolio.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://myportafolio.com#gh-dark-mode-only)
 
+### My Top Langs:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
+
+### 👯 I’m looking to collaborate:
+  
+- **Web development projects.**
+- **Projects of data science for Bussines or economic topics.**
+
+### 🤔 I’m looking for help with my first personal project, an online store. I just created the repository and a basic structure.
+
 ### ⚡ Fun fact:  
 - **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
 
 [website]: https://myportafolio.com
