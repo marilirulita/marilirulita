@@ -51,8 +51,3 @@
 
 ### ⚡ Fun fact:  
 - **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
-
-
-[website]: https://myportafolio.com
-[twitter]: https://twitter.com/marylirulita
-[linkedin]: https://www.linkedin.com/in/marbautista/
