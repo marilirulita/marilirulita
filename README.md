@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
->**I am learning programming, and I have many ideas that I want to make a reality.**
-### 🌱 I’m currently learning web development languages and tools such like:
+>**I am learning programming because I have many ideas that I want to make a reality.**
+### 🌱 I’m currently learning this languages and tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -19,10 +19,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://codestackr.com#gh-light-mode-only)
 
 <br />
+<br />
 
 #### *And also I am interested in data science and machine learning*
 
-### My GitHub Stats:
+---
+
+### ➡️ My GitHub Stats:
 
 [![Mar Bautista's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilirulita&show_icons=true&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
@@ -39,15 +42,35 @@
 [![website](./img/globe-light.svg)](https://myportafolio.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://myportafolio.com#gh-dark-mode-only)
 
-### My Top Langs:
+### ➡️ My Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
+---
+
+<details> 
+  <summary>
+    
 ### 👯 I’m looking to collaborate:
+  </summary>
   
 - **Web development projects.**
 - **Projects of data science for Bussines or economic topics.**
+</details>
 
-### 🤔 I’m looking for help with my first personal project, an online store. I just created the repository and a basic structure.
+<details> 
+  <summary>
+
+### 🤔 I’m looking for help with:
+  </summary>
+  
+- **My first personal project, an online store. I just created the repository and a basic structure.**
+</details>
+
+<details> 
+  <summary>
 
 ### ⚡ Fun fact:  
+  </summary>
+  
 - **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
+</details>
