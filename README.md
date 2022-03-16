@@ -4,18 +4,29 @@
 
 >**I am learning programming, and I have many ideas that I want to make a reality.**
 ### 🌱 I’m currently learning web development languages such like:
-- [x] HTML & CSS
-- [x] JavaScript
-- [x] Ruby
-- [x] Ruby on Rails
-- [x] React
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-[![Mar Bautista's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilirulita&show_icons=true&theme=radical)](https://github.com/marilirulita/github-readme-stats)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/marilirulita#gh-dark-mode-only)
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://codestackr.com#gh-light-mode-only)
+
+<br />
+
+### My GitHub Stats:
+
+[![Mar Bautista's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilirulita&show_icons=true&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
 #### *And also I am interested in data science and machine learning*
 
 ### 👯 I’m looking to collaborate:
+  
 - **Web development projects.**
 - **Projects of data science for Bussines or economic topics.**
 
@@ -23,9 +34,24 @@
 
 ### 📫 You can reach me at:
 - GitHub: [@marilirulita](https://github.com/marilirulita)
-- LinkedIn: [@marilirulita](https://www.linkedin.com/in/mar-y-sol-bautista-5a6894151/)
+- LinkedIn: [@marilirulita](https://www.linkedin.com/in/marbautista/)
 - Twitter: [@marilirulita](https://twitter.com/marylirulita)
 ### ⚡ Fun fact:  
 - **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=a60313&icon_color=36ad1c&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilirulita&layout=compact&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
+
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+
+
+[website]: https://myportafolio.com
+[twitter]: https://twitter.com/marylirulita
+[linkedin]: https://www.linkedin.com/in/marbautista/
