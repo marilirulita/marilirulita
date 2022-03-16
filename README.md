@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![lines gif](something.gif)
+![lines gif](Mar Bautista.mp4)
 
 ## *Mar Bautista´s Profile.*
 
@@ -10,7 +10,7 @@
 - [x] JavaScript
 - [x] Ruby
 - [x] Ruby on Rails
-- [ ] React
+- [x] React
 #### *And also I am interested in data science and machine learning*
 
 ### 👯 I’m looking to collaborate:
