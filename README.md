@@ -3,7 +3,6 @@
 # Hi there 👋
 
 >**I am learning programming because I have many ideas that I want to make a reality.**
-- You can see my portfolio [here](https://6261ca480645b6572964c6f9--polite-gnome-0a460c.netlify.app/)
 
 ### 🌱 I’m currently learning this languages and tools:
 
@@ -25,9 +24,10 @@
 
 #### *And also I am interested in data science and machine learning*
 
+### 💼 You can see my portfolio [here](https://6261ca480645b6572964c6f9--polite-gnome-0a460c.netlify.app/)
 ---
 
-### ➡️ My GitHub Stats:
+### ➡️ My GitHub Stats: 
 
 [![Mar Bautista's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilirulita&show_icons=true&title_color=ff2c41&text_color=36ad1c&icon_color=ff2c41&border_color=36ad1c&bg_color=011b4f)](https://github.com/marilirulita/github-readme-stats)
 
