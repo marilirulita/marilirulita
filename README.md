@@ -3,6 +3,8 @@
 # Hi there 👋
 
 >**I am learning programming because I have many ideas that I want to make a reality.**
+- You can see my portfolio [here](https://6261ca480645b6572964c6f9--polite-gnome-0a460c.netlify.app/)
+
 ### 🌱 I’m currently learning this languages and tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
