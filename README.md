@@ -4,7 +4,7 @@
 
 >**I am learning programming because I have many ideas that I want to make a reality.**
 
-### 🌱 I’m currently learning this languages and tools:
+### 🌱 I currently have intermediate knowledge in these languages and tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -52,11 +52,11 @@
 <details> 
   <summary>
     
-### 👯 I’m looking to collaborate:
+### 👯 I’m looking to collaborate in:
   </summary>
   
 - **Web development projects.**
-- **Projects of data science for Bussines or economic topics.**
+- **Projects for Bussines or economic topics.**
 </details>
 
 <details> 
@@ -65,7 +65,7 @@
 ### 🤔 I’m looking for help with:
   </summary>
   
-- **My first personal project, an online store. I just created the repository and a basic structure.**
+- **I work on non-profit organization projects, so I'm always looking for help with new NGO projects.**
 </details>
 
 <details> 
