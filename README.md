@@ -76,3 +76,18 @@
   
 - **I am a fanatic of anime, and when I am codding I like to listen to music with anime or fantasy themes** *(at this moment I am listening to a mixture of Celtic and magical forest music)* 😄.
 </details>
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img height="200" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle">
+      <!-- MOST_USED_LANGUAGE_START -->
+      <b>my most used language: <code>Java</code></b>
+      <!-- MOST_USED_LANGUAGE_END -->
+      <br /><br />
+      <img height="150" src="./anglerfish.gif" alt="Language Pixel Art Anglerfish" />
+    </td>
+  </tr>
+</table>
